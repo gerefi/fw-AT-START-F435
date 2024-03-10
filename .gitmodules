@@ -1,0 +1,3 @@
+[submodule "ext/gerefi"]
+	path = ext/gerefi
+	url = http://github.com/gerefi/gerefi
